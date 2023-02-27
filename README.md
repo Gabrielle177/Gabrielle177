@@ -12,5 +12,5 @@ Vou colocar os projetos desenvonvidos por mim nesse perfil. :grin:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielle177&show_icons=true&theme=radical)
+
 
